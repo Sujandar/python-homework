@@ -1,0 +1,1 @@
+spicy miso ramen {'01-count': 2, '02-revenue': 24.0, '03-cogs': 10.0, '04-profit': 14.0}
